@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # arasgungore.github.io
 
 My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
@@ -18,3 +19,6 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 * LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
 * GitHub: [@arasgungore](https://github.com/arasgungore)
+=======
+# Portfolio_Raj
+>>>>>>> abaf4fc0b7613889d5965c0a30a4cb5a084459fb
