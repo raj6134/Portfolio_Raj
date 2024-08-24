@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# arasgungore.github.io
+# Deva Adbutha Raj Kumar Dagam
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://rajportfolio.com).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://rajportfolio.xyz).
 
 
 
@@ -15,7 +15,7 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Deva Adbutha Raj Kumar Dagam**
 
 * LinkedIn: [@Raj Kumar](https://www.linkedin.com/in/loveu3000)
 * GitHub: [@raj6134](https://github.com/raj6134)
