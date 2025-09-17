@@ -17,7 +17,7 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Deva Adbutha Raj Kumar Dagam**
 
-* LinkedIn: [@Raj Kumar](https://www.linkedin.com/in/loveu3000)
+* LinkedIn: [@Raj Kumar](https://www.linkedin.com/in/rajdagam)
 * GitHub: [@raj6134](https://github.com/raj6134)
 =======
 # Portfolio_Raj
